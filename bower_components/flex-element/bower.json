@@ -1,10 +1,19 @@
 {
   "name": "flex-element",
+  "version": "0.1.0",
   "homepage": "https://github.com/charbelrami/flex-element",
   "authors": [
     "Charbel Rami"
   ],
-  "main": "index.html",
+  "description": "Flexbox element",
+  "main": "flex-element.html",
+  "keywords": [
+    "flex",
+    "flexbox",
+    "polymer",
+    "web-component",
+    "web-components"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -14,11 +23,6 @@
     "tests"
   ],
   "dependencies": {
-    "flex-element": "~0.1.0",
-    "headroom.js": "~0.7.0",
-    "octicons": "~3.1.0",
-    "jquery": "~2.1.4",
-    "scrollReveal.js": "~2.3.2",
-    "smooth-scroll": "https://github.com/cferdinandi/smooth-scroll.git#~7.0.2"
+    "polymer": "~1.1.0"
   }
 }
