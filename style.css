@@ -607,6 +607,10 @@ pre {
   color: #169c84;
   border: 1px solid #5f5d68;
 }
+code {
+  font-family: 'Fira Mono', monospace;
+  font-size: .875rem;
+}
 .code-highlight {
   color: #d04f4b;
 }
